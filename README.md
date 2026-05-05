@@ -153,4 +153,4 @@ This project is submitted as academic coursework for **IN6227 Data Mining** at N
 ## 👤 Author
 
 **Gerry Julian** · G2507395K  
-Nanyang Technological University — Wee Kim wee School of Communication and Information
+Nanyang Technological University — Wee Kim Wee School of Communication and Information
